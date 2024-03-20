@@ -6,6 +6,8 @@
 
 body{
     background-image: url("./Even or Odd image.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
     color: red;
 }
 h1{
